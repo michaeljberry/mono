@@ -9,3 +9,7 @@ To simplify the process of setting up a SPA with Lumen as the back-end, Vue.js a
 ## Understanding
 
 We utilize the concept of domain-driven design (DDD). Nest each part of the application within its own domain specific sub-folder: lumen, vue, etc.
+
+## Prerequisites
+
+- Docker
